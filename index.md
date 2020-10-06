@@ -1,56 +1,192 @@
 <!DOCTYPE html>
 <html>
+
     <head>
+        <title>Project: Recipe book</title>
         <meta charset="utf-8">
-        <title>Project: Exciting Travel webpage</title>
+        <style>
+        body {
+            background: rgb(28, 196, 89);
+        }
+        h1 {
+            color: rgb(117, 9, 117);
+        }
+        h2 {
+            color: rgb(219, 54, 28);
+        }
+        .tables {
+            color: rgb(240, 235, 240);
+        }
+        </style>
     </head>
     <body>
-    <style>
-    body {
-        background: rgb(86, 218, 245);
-    }
-        #uno {
-            color: rgb(161, 16, 161);
-        }
-        #dos {
-            color: rgb(240, 14, 59);
-        }
-        #tres {
-            color: rgb(240, 236, 14);
-        }
-        #cuat {
-            color: rgb(240, 231, 232);
-        }
-        .lists {
-            color: rgb(120, 90, 120);
-        }
-    </style>
-    
-        <h1>Travel to .... <br><em>INVITING</em> <br>WHEREEVERSVILLE!!!<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSsQYBAYFIi4SACoePyUu-da_qS-n7vywTNhQ&usqp=CAU"></h1>
-        <h2>If yes, don't waste yet another hour staring at katz on your WHIphone but instead READ ON!!!</h2>
-        <p id="uno">
-        Have you found yourself recently in dire need of escaping the dreariness of your significant other's apartment? Have you been dreaming lately of where you'd go on a budget of at least 75 dollhairs? Do you find yourself aching to stick your head out of a window for a mere 2 seconds of fresh air?</p>
+       
+        <h1><em>Rico Dahle's Collection of Home Cooking Recipes</em></h1><img src="https://www.kasandbox.org/programming-images/avatars/marcimus-red.png" alt= "happy creature" width="200">
         
-        <p id="dos"><strong> Have we got the trip for you!!</strong></p>
+        <h2>Contents:</h2>
         
-        <ol class="lists">
-           <li> Tour the historic Vaccum Cleaner Factory! Dust included!
-           <li> Stay at the Historic Empty Pockets EconoInn!! Not 0, not 1 but a full 1.5 star rating!
-           <li> Enjoy a delicious non-complimentary meal at Lizzie's Leftovers! No added hairs!
+        <ol>
+            <li><a href="#Mexican Cuisine">Quesadillas al pastor</a></li>
+            <li><a href="#Burger Time">Basic but Basil Burger</a></li>
+            <li><a href="#smooth">Scrumptious Smoothie</a></li>
+            <li><a href="#otherinfo">Helpful sources for more ideas</a></li>
         </ol>
-        <p id="tres">Enjoy plenty of local activities designed to keep your mind off the voluminous amount of chores awaiting your return to reality. Including:</p>
+        
+        <h2 id="Mexican Cuisine">Quesadillas al pastor</h2><img src="https://www.google.com/search?q=site%3Awikipedia.org+pork+al+pastor&tbm=isch&ved=2ahUKEwiijcLjn57sAhUNQKwKHbMiCZQQ2-cCegQIABAA&oq=site%3Awikipedia.org+pork+al+pastor&gs_lcp=CgNpbWcQA1C-EFj6O2CrPWgAcAB4AIABvwKIAaYQkgEIMi4xMC4xLjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=PHx7X6L_F42AsQWzxaSgCQ&bih=778&biw=1439#imgrc=UnlsieieD8PYrM" alt="photo of pork al pastor" width="100">
+        
         <ul>
-            <li>Binge watching (non-complimentary) HDO during unexpected hurricanes!
-            <li>Enjoying a tasty snack from our lodging partners' fully stocked mini-fridges (all non-house brand items, if in stock, occur a 400% restocking fee).
+            <li>Prep Time: 15 minutes</li>
+            <li>Cook Time: 10 minutes</li>
+            <li>Serves: 2</li>
         </ul>
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSmAlyyLKsWsOf2UcwGvve3VP9XJi5HAk_J4A&usqp=CAU" alt='this image likely will not load'>
-        <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F6%2F6f%2FSNCF_TGV_Duplex_Viaduc_de_Cize_-_Bolozon.jpg&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFrance&tbnid=X7YiVfRxPIW0FM&vet=12ahUKEwjIqbKvw5nsAhURBKwKHXFRDSAQMygYegUIARCqAQ..i&docid=_BchAYr7cuAkDM&w=4361&h=2907&q=site%3Awikipedia.org%20&ved=2ahUKEwjIqbKvw5nsAhURBKwKHXFRDSAQMygYegUIARCqAQ" alt="Chrome and Wikipedia seem to result in failed picture URL loading">
-        <p id="cuat">Read below to research local weather to ensure you arrive during your favorite season.</p>
-        <ol class="lists">
-            <li>Turn on computer.
-            <li>Open web browser.
-            <li>Look up weather all on your own.
-        </ol>
-        <p><em>Ready to book your stay?</em> Please be prepared to provide three credit cards and one debit card. Note all reservation fees are non-refundable and incur a 15% credit card handling fee or a 15% debit card handling fee, whichever is greater.</p>
+        
+        <table class="tables">
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Onions</td>
+                    <td>1 cup</td>
+                </tr>
+                <tr>
+                    <td>Pork al pastor</td>
+                    <td>8 ounces</td>
+                </tr>
+                <tr>
+                    <td>8 inch tortillas</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td>Guacamole to serve as dressing (optional)</td>
+                    <td>as demanded</td>
+                </tr>
+            </tbody>
+        </table>
+        <p><strong>Cooking Instructions</strong></p>
+        <p><strong>Step 1:</strong> Brown tortillas in pan for 2 minutes per side at medium heat.
+</p>
+        <p><strong>Step 2:</strong> Turn heat to low and add chopped onions to grill for 2-3 minutes stirring often, slice cheese. In separate pan, brown regfrigerated pork al pastor.
+</p>
+        <p><strong>Step 3:</strong>Place pork al pastor along with diced onions and cheese on top of one tortilla, then place second tortilla on top. Leave on low heat for 2 minutes.
+</p>
+        <p><strong>Step 4:</strong> Place quesadilla on plate and slice into 8 equal triangles.
+</p>
+        <h2 id="Burger Time">Basic but Basil Burger</h2><img src="https://www.google.com/search?q=site%3Awikipedia.org+pork+al+pastor&tbm=isch&ved=2ahUKEwiijcLjn57sAhUNQKwKHbMiCZQQ2-cCegQIABAA&oq=site%3Awikipedia.org+pork+al+pastor&gs_lcp=CgNpbWcQA1C-EFj6O2CrPWgAcAB4AIABvwKIAaYQkgEIMi4xMC4xLjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=PHx7X6L_F42AsQWzxaSgCQ&bih=778&biw=1439#imgrc=UnlsieieD8PYrM" alt="photo of yummy burger" width="100">
+        
+        <ul>
+            <li>Prep time: 15 minutes</li>
+            <li>Cooking time: 15 minutes</li>
+            <li>Serves: 2</li>
+        </ul>
+    <table class="tables">
+        <thead>
+            <tr>
+                <th>Ingredients</th>
+                <th>Quantity</th>
+                
+            </tr>   
+        </thead>
+        <tbody>
+            <tr>
+                <td>Brioche buns</td>
+                <td>4</td>
+            </tr>
+            <tr>
+                <td>7oz beef patties</td>
+                <td>2-4 (Depending on portion size preference)</td>
+            </tr>
+            <tr>
+                <td>Catsup</td>
+                <td>1oz/burger</td>
+            </tr>
+            <tr>
+                <td>Onions (grilled for extra zing)</td>
+                <td>1/4 yellow onion per patty</td>
+            </tr>
+            <tr>
+                <td>Basil; other Greens (pickles, lettuce, spinach??)</td>
+                <td>5 basil leaves/burger; as desired</td>
+            </tr>
+        </tbody>
+            
+    </table>
+    <p><strong>Cooking Instructions</strong></p>
+    <p><strong>Step 1:</strong>Toast buns in toaster oven for 10 minutes on heat of 350F or on warm pan for 15 minutes.</p>
+    <p><strong>Step 2:</strong>Remove beef patties from freezer and place in skillet prewarmed to medium. Flip every two minutes until internal temperature reaches 165F per patty.</p>
+    <p><strong>Step 3:</strong>Mix special sauce if desired. Recommended 1 oz mayo, 1 oz catsup, garlic salt, garlic diced and lime juice blended.</p>
+    <p><strong>Step 4:</strong>Slice desired veggies.</p>
+    <p><strong>Step 5:</strong>Plate buns and place patties atop one layer of basil leaves. Layer catsup/special sauce on top, place cheese if desired atop. Enjoy!</p>
+    
+    
+    
+    
+    <h2 id="smooth">Fruit and Veggie blended smoothie</h2>
+        
+        <ul>
+            <li>Prep Time: 5 minutes</li>
+            <li>Cook Time: 50 minutes</li>
+            <li>Serves: 2</li>
+        </ul>
+        
+        <table class="tables">
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Orange</td>
+                    <td>1 navel orange</td>
+                </tr>
+                <tr>
+                    <td>Strawberries</td>
+                    <td>6 fresh from plant</td>
+                </tr>
+                <tr>
+                    <td>Greek yogurt</td>
+                    <td>1/2 cup</td>
+                </tr>
+                <tr>
+                    <td>Mango</td>
+                    <td>1/2 of fruit</td>
+                </tr>
+                <tr>
+                    <td>Tomato</td>
+                    <td>1 full sized Beefsteak tomato</td>
+                </tr>
+                <tr>
+                    <td>Granola mix (sunflower seeds, granola, oats)</td>
+                    <td>4oz</td>
+                </tr>
+                <tr>
+                    <td>Almond or standard milk</td>
+                    <td>6oz</td>
+                </tr>
+            </tbody>
+        </table>
+        <p><strong>Cooking Instructions</strong></p>
+        <p><strong>Step 1:</strong>Freeze all fruit night before.
+        </p>
+        <p><strong>Step 2:</strong>Add base of almond or standard milk to blender.
+</p>
+        <p><strong>Step 3:</strong>Put frozen fruit into blender and blend until reduced to small chunks.
+</p>
+        <p><strong>Step 4:</strong>Add remaining ingredients and blend until reaching a melted bu viscous thickness level. Serve in three 8oz cups.
+</p>
+    
+    
+    
+    
+    <h2 id="otherinfo">
+        Helpful supporting information and links
+    </h2>
+    <p><em>Source: <a href="https://www.google.com">Some recipes websites</a></em></p>
+    <p><em>Source: <a href="https://www.sjpl.org">Library link to search for recipes</a></em></p>  
     </body>
 </html>
