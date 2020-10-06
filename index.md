@@ -16,7 +16,7 @@
             color: rgb(219, 54, 28);
         }
         .tables {
-            color: rgb(240, 235, 240);
+            color: rgb(255, 2, 2);
         }
         </style>
     </head>
