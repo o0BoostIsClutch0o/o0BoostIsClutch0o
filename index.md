@@ -28,13 +28,13 @@
         <h2>Contents:</h2>
         
         <ol>
-            <li><a href="#Mexican Cuisine">Quesadillas al pastor</a></li>
-            <li><a href="#Burger Time">Basic but Basil Burger</a></li>
+            <li><a href="#MexicanCuisine">Quesadillas al pastor</a></li>
+            <li><a href="#BurgerTime">Basic but Basil Burger</a></li>
             <li><a href="#smooth">Scrumptious Smoothie</a></li>
             <li><a href="#otherinfo">Helpful sources for more ideas</a></li>
         </ol>
         
-        <h2 id="Mexican Cuisine">Quesadillas al pastor</h2><img src="https://www.dinneratthezoo.com/wp-content/uploads/2019/04/tacos-al-pastor-6.jpg" alt="photo of pork al pastor" width="100">
+        <h2 id="MexicanCuisine">Quesadillas al pastor</h2><img src="https://www.dinneratthezoo.com/wp-content/uploads/2019/04/tacos-al-pastor-6.jpg" alt="photo of pork al pastor" width="100">
         
         <ul>
             <li>Prep Time: 15 minutes</li>
@@ -77,7 +77,7 @@
 </p>
         <p><strong>Step 4:</strong> Place quesadilla on plate and slice into 8 equal triangles.
 </p>
-        <h2 id="Burger Time">Basic but Basil Burger</h2><img src="https://www.google.com/search?q=site%3Awikipedia.org+pork+al+pastor&tbm=isch&ved=2ahUKEwiijcLjn57sAhUNQKwKHbMiCZQQ2-cCegQIABAA&oq=site%3Awikipedia.org+pork+al+pastor&gs_lcp=CgNpbWcQA1C-EFj6O2CrPWgAcAB4AIABvwKIAaYQkgEIMi4xMC4xLjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=PHx7X6L_F42AsQWzxaSgCQ&bih=778&biw=1439#imgrc=UnlsieieD8PYrM" alt="photo of yummy burger" width="100">
+        <h2 id="BurgerTime">Basic but Basil Burger</h2><img src="https://www.google.com/search?q=site%3Awikipedia.org+pork+al+pastor&tbm=isch&ved=2ahUKEwiijcLjn57sAhUNQKwKHbMiCZQQ2-cCegQIABAA&oq=site%3Awikipedia.org+pork+al+pastor&gs_lcp=CgNpbWcQA1C-EFj6O2CrPWgAcAB4AIABvwKIAaYQkgEIMi4xMC4xLjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=PHx7X6L_F42AsQWzxaSgCQ&bih=778&biw=1439#imgrc=UnlsieieD8PYrM" alt="photo of yummy burger" width="100">
         
         <ul>
             <li>Prep time: 15 minutes</li>
@@ -190,5 +190,6 @@
     </h2>
     <p><em>Source: <a href="https://www.google.com">Some recipes websites</a></em></p>
     <p><em>Source: <a href="https://www.sjpl.org">Library link to search for recipes</a></em></p>  
+    <img src="https://bit.ly/fcc-relaxing-cat" alt="cat relaxing upside down">
     </body>
 </html>
