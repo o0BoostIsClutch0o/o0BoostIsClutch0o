@@ -8,6 +8,7 @@
         <style>
         body {
             background: rgb(28, 196, 89);
+            font-family: 'Josefin Sans', sans-serif;
         }
         h1 {
             color: rgb(117, 9, 117);
