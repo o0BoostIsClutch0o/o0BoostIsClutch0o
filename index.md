@@ -33,7 +33,7 @@
             <li><a href="#otherinfo">Helpful sources for more ideas</a></li>
         </ol>
         
-        <h2 id="Mexican Cuisine">Quesadillas al pastor</h2><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.foodnetwork.com%2Frecipes%2Ffood-network-kitchen%2Foven-spit-pork-al-pastor-5182802&psig=AOvVaw1VrHT4g6dclyt1Bm71lo64&ust=1602180174901000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjhnLeIo-wCFQAAAAAdAAAAABAD" alt="photo of pork al pastor" width="100">
+        <h2 id="Mexican Cuisine">Quesadillas al pastor</h2><img src="https://www.dinneratthezoo.com/wp-content/uploads/2019/04/tacos-al-pastor-6.jpg" alt="photo of pork al pastor" width="100">
         
         <ul>
             <li>Prep Time: 15 minutes</li>
