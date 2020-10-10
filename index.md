@@ -114,7 +114,7 @@
                 <td>5 basil leaves/burger; as desired</td>
             </tr>
             <tr>
-                <td>Mayo (link to mayo on sale<a target ="blank" href="https://www.google.com/search?q=coupons+for+mayo&rlz=1CAEVJI_enUS911&oq=coupons+for+mayo&aqs=chrome..69i57j0l7.6882j0j7&sourceid=chrome&ie=UTF-8"> (link to mayo on sale) </a></td>
+                <td>Mayo<a target ="blank" href="https://www.google.com/search?q=coupons+for+mayo&rlz=1CAEVJI_enUS911&oq=coupons+for+mayo&aqs=chrome..69i57j0l7.6882j0j7&sourceid=chrome&ie=UTF-8"> (link to mayo on sale) </a></td>
                 <td>2 ounces. Feel free to stir in teaspoon of hot sauce for flair</td>
             </tr>
         </tbody>
@@ -194,7 +194,7 @@
     </h2>
     <p><em>Source: <a href="https://www.google.com">Some recipes websites</a></em></p>
     <p><em>Source: <a href="https://www.sjpl.org">Library link to search for recipes</a></em></p>  
-    <a target="_blank" href="https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/turn-an-image-into-a-link" <img src="https://bit.ly/fcc-relaxing-cat" alt="cat relaxing upside down"></a>>
-    <a>Next link href="https://www.google.com"</a>
+    <a target="_blank" href="https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/turn-an-image-into-a-link"> <img src="https://bit.ly/fcc-relaxing-cat" alt="cat relaxing upside down"></a>
+    <p>Search engine<a>Next link href="https://www.google.com"</a></p>
     </body>
 </html>
