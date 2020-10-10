@@ -113,6 +113,9 @@
                 <td>Basil; other Greens (pickles, lettuce, spinach??)</td>
                 <td>5 basil leaves/burger; as desired</td>
             </tr>
+            <tr>
+                <td>Mayo </td>
+                <td>2 ounces. Feel free to stir in teaspoon of hot sauce for flair<a>target ="blank" href="https://www.google.com/search?q=coupons+for+mayo&rlz=1CAEVJI_enUS911&oq=coupons+for+mayo&aqs=chrome..69i57j0l7.6882j0j7&sourceid=chrome&ie=UTF-8"</a></td>
         </tbody>
             
     </table>
@@ -190,6 +193,7 @@
     </h2>
     <p><em>Source: <a href="https://www.google.com">Some recipes websites</a></em></p>
     <p><em>Source: <a href="https://www.sjpl.org">Library link to search for recipes</a></em></p>  
-    <img src="https://bit.ly/fcc-relaxing-cat" alt="cat relaxing upside down">
+    <img href="https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/turn-an-image-into-a-link" src="https://bit.ly/fcc-relaxing-cat" alt="cat relaxing upside down">
+    <a>Next link</a>
     </body>
 </html>
