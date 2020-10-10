@@ -194,7 +194,7 @@
     </h2>
     <p><em>Source: <a href="https://www.google.com">Some recipes websites</a></em></p>
     <p><em>Source: <a href="https://www.sjpl.org">Library link to search for recipes</a></em></p>  
-    <img href="https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/turn-an-image-into-a-link" src="https://bit.ly/fcc-relaxing-cat" alt="cat relaxing upside down">
+    <img <a>href="https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/turn-an-image-into-a-link" src="https://bit.ly/fcc-relaxing-cat" alt="cat relaxing upside down"</a>>
     <a>Next link</a>
     </body>
 </html>
