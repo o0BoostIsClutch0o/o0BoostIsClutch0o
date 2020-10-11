@@ -7,7 +7,7 @@
         <meta charset="utf-8">
         <style>
         body {
-            background: rgb(28, 196, 89);
+            background: rgb(28, 296, 289);
             font-family: 'Josefin Sans', sans-serif;
         }
         h1 {
@@ -197,9 +197,10 @@
     <p><em>Source: <a href="https://www.google.com">Some recipes websites</a></em></p>
     <p><em>Source: <a href="https://www.sjpl.org">Library link to search for recipes</a></em></p>  
     <a target="_blank" href="https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/turn-an-image-into-a-link"> <img src="https://bit.ly/fcc-relaxing-cat" alt="cat relaxing upside down"></a>
-    <p>Search engine<a>href="https://www.google.com"</a></p>
+    <p><a href="https://www.google.com"></a>Search engine</p>
     <p>Have a suggestion?</p>
     <input type="text" placeholder="enter text here">
+    <button type="submit>Submit entry</button>
     
     </body>
 </html>
