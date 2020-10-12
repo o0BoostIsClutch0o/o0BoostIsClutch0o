@@ -77,7 +77,7 @@
 </p>
         <p><strong>Step 4:</strong> Place quesadilla on plate and slice into 8 equal triangles.
 </p>
-        <h2 id="BurgerTime">Basic but Basil Burger</h2><img src="https://www.google.com/search?q=site%3Awikipedia.org+pork+al+pastor&tbm=isch&ved=2ahUKEwiijcLjn57sAhUNQKwKHbMiCZQQ2-cCegQIABAA&oq=site%3Awikipedia.org+pork+al+pastor&gs_lcp=CgNpbWcQA1C-EFj6O2CrPWgAcAB4AIABvwKIAaYQkgEIMi4xMC4xLjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=PHx7X6L_F42AsQWzxaSgCQ&bih=778&biw=1439#imgrc=UnlsieieD8PYrM" alt="photo of yummy burger" width="100">
+        <h2 id="BurgerTime">Basic but Basil Burger</h2><img src="https://www.tasteofhome.com/wp-content/uploads/2018/01/Basil-Burgers-with-Sun-Dried-Tomato-Mayonnaise_exps40355_THHC1997845D03_01_1bC_RMS.jpg" alt="photo of yummy burger" width="100">
         
         <ul>
             <li>Prep time: 15 minutes</li>
@@ -126,7 +126,7 @@
     <p><strong>Step 3:</strong>Mix special sauce if desired. Recommended 1 oz mayo, 1 oz catsup, garlic salt, garlic diced and lime juice blended.</p>
     <p><strong>Step 4:</strong>Slice desired veggies.</p>
     <p><strong>Step 5:</strong>Plate buns and place patties atop one layer of basil leaves. Layer catsup/special sauce on top, place cheese if desired atop. Enjoy!</p>
-    
+<p><em><a href="https://www.tasteofhome.com/wp-content/uploads/2018/01/Basil-Burgers-with-Sun-Dried-Tomato-Mayonnaise_exps40355_THHC1997845D03_01_1bC_RMS.jpg>Where to buy fresh basil</a></em></p>
     
     
     
@@ -194,10 +194,10 @@
     <h2 id="otherinfo">
         Helpful supporting information and links
     </h2>
-    <p><em>Source: <a href="https://www.google.com">Some recipes websites</a></em></p>
+    <p><em>Source: <a target="_blank" href="https://www.google.com">Some recipes websites</a></em></p>
     <p><em>Source: <a href="https://www.sjpl.org">Library link to search for recipes</a></em></p>  
     <a target="_blank" href="https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/turn-an-image-into-a-link"> <img src="https://bit.ly/fcc-relaxing-cat" alt="cat relaxing upside down"></a>
-    <p>Source: <a href="https://www.google.com">Search engine</a></p>
+    <p><em>Source: <a href="https://www.google.com">Search engine</a></em></p>
     <p>Have a suggestion?</p>
     <form>
     <input type="text" placeholder="enter text here">
