@@ -77,7 +77,7 @@
 </p>
         <p><strong>Step 4:</strong> Place quesadilla on plate and slice into 8 equal triangles.
 </p>
-        <h2 id="BurgerTime">Basic but Basil Burger</h2><img src="https://www.tasteofhome.com/wp-content/uploads/2018/01/Basil-Burgers-with-Sun-Dried-Tomato-Mayonnaise_exps40355_THHC1997845D03_01_1bC_RMS.jpg" alt="photo of yummy burger" width="100">
+        <h2 id="BurgerTime">Basic but Basil Burger</h2><img src="https://www.tasteofhome.com/wp-content/uploads/2018/01/Basil-Burgers-with-Sun-Dried-Tomato-Mayonnaise_exps40355_THHC1997845D03_01_1bC_RMS.jpg" alt="photo of yummy burger" width="400">
         
         <ul>
             <li>Prep time: 15 minutes</li>
@@ -126,10 +126,7 @@
     <p><strong>Step 3:</strong>Mix special sauce if desired. Recommended 1 oz mayo, 1 oz catsup, garlic salt, garlic diced and lime juice blended.</p>
     <p><strong>Step 4:</strong>Slice desired veggies.</p>
     <p><strong>Step 5:</strong>Plate buns and place patties atop one layer of basil leaves. Layer catsup/special sauce on top, place cheese if desired atop. Enjoy!</p>
-<p><em><a href="https://www.tasteofhome.com/wp-content/uploads/2018/01/Basil-Burgers-with-Sun-Dried-Tomato-Mayonnaise_exps40355_THHC1997845D03_01_1bC_RMS.jpg>Where to buy fresh basil</a></em></p>
-    
-    
-    
+<p><em>Source: <a href="https://thrivecuisine.com/grocery-store-guide/where-to-find-fresh-basil-in-the-grocery-store/">Where to buy fresh basil</a></em></p>
     <h2 id="smooth">Fruit and Veggie blended smoothie</h2>
         
         <ul>
