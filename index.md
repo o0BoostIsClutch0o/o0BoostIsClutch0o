@@ -197,11 +197,11 @@
     <p><em>Source: <a href="https://www.google.com">Some recipes websites</a></em></p>
     <p><em>Source: <a href="https://www.sjpl.org">Library link to search for recipes</a></em></p>  
     <a target="_blank" href="https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/turn-an-image-into-a-link"> <img src="https://bit.ly/fcc-relaxing-cat" alt="cat relaxing upside down"></a>
-    <p>Source: <a href="https://www.google.com"></a>Search engine</p>
+    <p>Source: <a href="https://www.google.com">Search engine</a></p>
     <p>Have a suggestion?</p>
     <form>
     <input type="text" placeholder="enter text here">
-    <button type="submit>Submit entry</button>
+    <button type="submit">Submit entry</button>
     </form>
     
     </body>
