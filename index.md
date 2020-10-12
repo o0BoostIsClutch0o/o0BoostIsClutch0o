@@ -19,9 +19,10 @@
         }
         .tables {
             color: rgb(2, 255, 2);
+            font-family: monospace:
         }
         .catstuff {
-            color: rgb(0, 2, 0);
+            color: rgb(255, 255, 255);
         }
         </style>
         
