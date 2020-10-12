@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
     
 
@@ -19,7 +18,7 @@
         }
         .tables {
             color: rgb(2, 255, 2);
-            font-family: monospace:
+            font-family: monospace;
         }
         .catstuff {
             color: rgb(255, 255, 255);
