@@ -17,9 +17,13 @@
             color: rgb(219, 54, 28);
         }
         .tables {
-            color: rgb(255, 2, 2);
+            color: rgb(2, 255, 2);
+        }
+        .catstuff {
+            color: rgb(0, 2, 0);
         }
         </style>
+        
     </head>
     <body>
        
@@ -34,7 +38,7 @@
             <li><a href="#otherinfo">Helpful sources for more ideas</a></li>
         </ol>
         
-        <h2 id="MexicanCuisine">Quesadillas al pastor</h2><img src="https://www.dinneratthezoo.com/wp-content/uploads/2019/04/tacos-al-pastor-6.jpg" alt="photo of pork al pastor" width="100">
+        <h2 id="MexicanCuisine">Quesadillas al pastor</h2><img src="https://www.dinneratthezoo.com/wp-content/uploads/2019/04/tacos-al-pastor-6.jpg" alt="photo of pork al pastor" width="400">
         
         <ul>
             <li>Prep Time: 15 minutes</li>
@@ -193,6 +197,7 @@
     </h2>
     <p><em>Source: <a target="_blank" href="https://www.google.com">Some recipes websites</a></em></p>
     <p><em>Source: <a href="https://www.sjpl.org">Library link to search for recipes</a></em></p>  
+    <p class="catstuff">Silly cat says 'Hello!'</p>
     <a target="_blank" href="https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/turn-an-image-into-a-link"> <img src="https://bit.ly/fcc-relaxing-cat" alt="cat relaxing upside down"></a>
     <p><em>Source: <a href="https://www.google.com">Search engine</a></em></p>
     <p>Have a suggestion?</p>
