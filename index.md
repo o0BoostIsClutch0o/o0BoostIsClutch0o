@@ -8,7 +8,8 @@
         <style>
         body {
             background: rgb(28, 296, 289);
-            font-family: 'Josefin Sans', sans-serif;
+            font-family: serif; <!-- look for Helvetica on user PC, if not found use default serif -->
+            <!-- font-family: 'Josefin Sans', sans-serif; -->
         }
         h1 {
             color: rgb(117, 9, 117);
