@@ -17,7 +17,7 @@
         }
         h2 {
             color: rgb(219, 54, 28);
-            font-size: 10em;
+            font-size: 1.5em;
         }
         .tables {
             color: rgb(2, 255, 2);
