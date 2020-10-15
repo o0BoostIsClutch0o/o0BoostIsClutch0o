@@ -9,22 +9,22 @@
             background: rgb(28, 296, 289);
             font-family: serif; <!-- look for Helvetica on user PC, if not found use default serif -->
             <!-- font-family: 'Josefin Sans', sans-serif; -->
-            font size: 16px;
+            font-size: 10px;
         }
         h1 {
             color: rgb(117, 9, 117);
-            font-size: 4em;
+            font-size: 5em;
         }
         h2 {
             color: rgb(219, 54, 28);
-            font-size: 4em;
+            font-size: 5em;
         }
         .tables {
             color: rgb(2, 255, 2);
             font-family: monospace;
         }
         .catstuff {
-            color: rgb(255, 255, 255);
+            color: rgb(255, 255, 95);
         }
         </style>
         
