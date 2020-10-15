@@ -7,7 +7,7 @@
         <style>
         body {
             background: rgb(28, 296, 289);
-            font-size: 10px;
+            font-size: 20px;
             font-family: serif; <!-- look for Helvetica on user PC, if not found use default serif -->
             <!-- font-family: 'Josefin Sans', sans-serif; -->
         }
@@ -17,7 +17,7 @@
         }
         h2 {
             color: rgb(219, 54, 28);
-            font-size: 5em;
+            font-size: 2em;
         }
         .tables {
             color: rgb(2, 255, 2);
