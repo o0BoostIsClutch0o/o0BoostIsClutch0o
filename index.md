@@ -26,13 +26,16 @@
         .catstuff {
             color: rgb(255, 255, 95);
         }
+        #selfInto {
+            font-weight: bold;
+            }
         </style>
         
     </head>
     <body>
        
         <h1><em>Rico Dahle's Collection of Home Cooking Recipes</em></h1><img src="https://www.kasandbox.org/programming-images/avatars/marcimus-red.png" alt= "happy creature" width="200">
-        
+        <p class="selfIntro">
         <h2>Contents:</h2>
         
         <ol>
