@@ -9,12 +9,15 @@
             background: rgb(28, 296, 289);
             font-family: serif; <!-- look for Helvetica on user PC, if not found use default serif -->
             <!-- font-family: 'Josefin Sans', sans-serif; -->
+            font size: 16px;
         }
         h1 {
             color: rgb(117, 9, 117);
+            font size: 1.5em;
         }
         h2 {
             color: rgb(219, 54, 28);
+            font size: 1.5em;
         }
         .tables {
             color: rgb(2, 255, 2);
