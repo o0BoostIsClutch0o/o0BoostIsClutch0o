@@ -13,11 +13,11 @@
         }
         h1 {
             color: rgb(117, 9, 117);
-            font size: 1.5em;
+            font-size: 1.5em;
         }
         h2 {
             color: rgb(219, 54, 28);
-            font size: 1.5em;
+            font-size: 1.5em;
         }
         .tables {
             color: rgb(2, 255, 2);
