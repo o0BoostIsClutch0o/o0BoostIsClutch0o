@@ -7,7 +7,7 @@
         <style>
         body {
             background: rgb(28, 296, 289);
-            font-size: 10px;
+            font-size: 40px;
             font-family: serif; <!-- look for Helvetica on user PC, if not found use default serif -->
             <!-- font-family: 'Josefin Sans', sans-serif; -->
         }
@@ -18,10 +18,11 @@
         h2 {
             color: rgb(219, 54, 28);
             font: italic 2em fantasy;
+            font-weight: bold;
             <!-- condensed previously long-hand font info into shorthand font: (style size family) -->
         }
         .tables {
-            color: rgb(2, 255, 2);
+            color: rgb(2, 2, 2);
             font-family: monospace;
         }
         .catstuff {
