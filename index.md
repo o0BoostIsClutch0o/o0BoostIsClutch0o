@@ -7,17 +7,17 @@
         <style>
         body {
             background: rgb(28, 296, 289);
-            font-size: 20px;
+            font-size: 10px;
             font-family: serif; <!-- look for Helvetica on user PC, if not found use default serif -->
             <!-- font-family: 'Josefin Sans', sans-serif; -->
         }
         h1 {
             color: rgb(117, 9, 117);
-            font-size: 5em;
+            font-size: 2em;
         }
         h2 {
             color: rgb(219, 54, 28);
-            font: italic 1.5em fantasy;
+            font: italic 2em fantasy;
             <!-- condensed previously long-hand font info into shorthand font: (style size family) -->
         }
         .tables {
