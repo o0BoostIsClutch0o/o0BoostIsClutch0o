@@ -7,7 +7,7 @@
         <style>
         body {
             background: rgb(28, 296, 289);
-            font-size: 40px;
+            font-size: 20px;
             font-family: Helvetica, serif; <!-- look for Helvetica on user PC, if not found use default serif -->
             <!-- font-family: 'Josefin Sans', sans-serif; -->
         }
