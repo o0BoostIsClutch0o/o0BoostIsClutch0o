@@ -8,7 +8,7 @@
         body {
             background: rgb(28, 296, 289);
             font-size: 40px;
-            font-family: serif; <!-- look for Helvetica on user PC, if not found use default serif -->
+            font-family: Helvetica, serif; <!-- look for Helvetica on user PC, if not found use default serif -->
             <!-- font-family: 'Josefin Sans', sans-serif; -->
         }
         h1 {
@@ -21,9 +21,14 @@
             font-weight: bold;
             <!-- condensed previously long-hand font info into shorthand font: (style size family) -->
         }
+        .thinpinkborder {
+            border-width: 10px;
+            border-color: blue;
+            border-style: bold;
+        }
         .tables {
             color: rgb(2, 2, 2);
-            font-family: monospace;
+            font-family: monospace, sans-serif;
         }
         .catstuff {
             color: rgb(255, 255, 95);
@@ -48,7 +53,7 @@
             <li><a href="#otherinfo">Helpful sources for more ideas</a></li>
         </ol>
         
-        <h2 id="MexicanCuisine">Quesadillas al pastor</h2><img src="https://www.dinneratthezoo.com/wp-content/uploads/2019/04/tacos-al-pastor-6.jpg" alt="photo of pork al pastor" width="400">
+        <h2 id="MexicanCuisine">Quesadillas al pastor</h2><img class="thinpinkborder" src="https://www.dinneratthezoo.com/wp-content/uploads/2019/04/tacos-al-pastor-6.jpg" alt="photo of pork al pastor" width="400">
         
         <ul>
             <li>Prep Time: 15 minutes</li>
