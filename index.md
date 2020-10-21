@@ -26,6 +26,9 @@
             border-color: blue;
             border-style: bold;
         }
+        .roundborderuno {
+            border-radius: 50%;
+        }
         .tables {
             color: rgb(2, 2, 2);
             font-family: monospace, sans-serif;
@@ -53,7 +56,7 @@
             <li><a href="#otherinfo">Helpful sources for more ideas</a></li>
         </ol>
         
-        <h2 id="MexicanCuisine">Quesadillas al pastor</h2><img class="thinpinkborder" src="https://www.dinneratthezoo.com/wp-content/uploads/2019/04/tacos-al-pastor-6.jpg" alt="photo of pork al pastor" width="400">
+        <h2 id="MexicanCuisine">Quesadillas al pastor</h2><img class="thinpinkborder" class='roundborderuno' src="https://www.dinneratthezoo.com/wp-content/uploads/2019/04/tacos-al-pastor-6.jpg" alt="photo of pork al pastor" width="400">
         
         <ul>
             <li>Prep Time: 15 minutes</li>
