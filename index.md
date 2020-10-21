@@ -30,7 +30,7 @@
             border-radius: 50%;
         }
         .kittyphoto {
-            border-radius: 40%;
+            border-radius: 20px;
         }
         .tables {
             color: rgb(2, 2, 2);
