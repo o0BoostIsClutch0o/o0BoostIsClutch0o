@@ -39,6 +39,9 @@
         .catstuff {
             color: rgb(255, 255, 95);
         }
+        .nextintro {
+            background-color: green;
+        }
         #selfIntro {
             font-weight: bold;
             }
@@ -49,7 +52,7 @@
        
         <h1><em>Rico Dahle's Collection of Delicious Home Cooking Recipes</em></h1><img src="https://www.kasandbox.org/programming-images/avatars/marcimus-red.png" alt= "happy creature" width="200">
         <p class="selfIntro">Hello, my name is Rico Dahle, and I am a self-professed amateur cook. Most of my culinary training and influence can be tied back to my fairly normal but food-rich upbringing in southern Germany. As a child, I experienced some of the most diverse eats a child could ever imagine (or want, in the case of picky young Rico), and I have this as well as two very food-loving cooking centric parents who ensured that I helped with all aspects of meal-making at home, for or against my will...</p>
-        <p>Below you shall find but a small sample of a few of my most favorite menu selections of my childhood and travels across the culinary spectrum. I do hope you'll choose at least one to try for yourself, even if you modify the ingredients list slightly to accommodate any dietary needs. Bon appetit!</p>
+        <p class='nextintro' >Below you shall find but a small sample of a few of my most favorite menu selections of my childhood and travels across the culinary spectrum. I do hope you'll choose at least one to try for yourself, even if you modify the ingredients list slightly to accommodate any dietary needs. Bon appetit!</p>
         <h2>Contents:</h2>
         
         <ol>
