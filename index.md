@@ -19,6 +19,7 @@
             color: rgb(219, 54, 28);
             font: italic 2em fantasy;
             font-weight: bold;
+            text-decoration: underline;
             <!-- condensed previously long-hand font info into shorthand font: (style size family) -->
         }
         .thinpinkborder {
@@ -26,6 +27,8 @@
             border-color: blue;
             border-style: bold;
         }
+        .undercook {
+            text-decoration: underline;
         .roundborderuno {
             border-radius: 50%;
         }
@@ -96,7 +99,7 @@
                 </tr>
             </tbody>
         </table>
-        <p><strong>Cooking Instructions</strong></p>
+        <p class='undercook'><strong>Cooking Instructions</strong></p>
         <p><strong>Step 1:</strong> Brown tortillas in pan for 2 minutes per side at medium heat.
 </p>
         <p><strong>Step 2:</strong> Turn heat to low and add chopped onions to grill for 2-3 minutes stirring often, slice cheese. In separate pan, brown regfrigerated pork al pastor.
@@ -148,7 +151,7 @@
         </tbody>
             
     </table>
-    <p><strong>Cooking Instructions</strong></p>
+    <p class='undercook'><strong>Cooking Instructions</strong></p>
     <p><strong>Step 1:</strong>Toast buns in toaster oven for 10 minutes on heat of 350F or on warm pan for 15 minutes.</p>
     <p><strong>Step 2:</strong>Remove beef patties from freezer and place in skillet prewarmed to medium. Flip every two minutes until internal temperature reaches 165F per patty.</p>
     <p><strong>Step 3:</strong>Mix special sauce if desired. Recommended 1 oz mayo, 1 oz catsup, garlic salt, garlic diced and lime juice blended.</p>
