@@ -45,6 +45,20 @@
         .nextintro {
             background-color: green;
         }
+        .creature {
+            position: relative;
+            margin: auto;
+            display: block;
+            margin-top: 5%;
+            width: 200px;
+            height: 200px;
+        }
+        .creatureface {
+            width: 50%;
+            height: 50%;
+            border-radius: 50% 50% 50% 50%; 
+            color: gray;
+        }
         #selfIntro {
             font-weight: bold;
             }
@@ -226,6 +240,12 @@
     <p><em>Source: <a href="https://www.sjpl.org">Library link to search for recipes</a></em></p>  
     <p class="catstuff">Silly cat says 'Hello!'</p>
     <a target="_blank" href="https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/turn-an-image-into-a-link"> <img class="kittyphoto" src="https://bit.ly/fcc-relaxing-cat" alt="cat relaxing upside down"></a>
+    
+    <div class="creature">
+        <div class="creatureface">
+        </div>
+    </div>
+    
     <p><em>Source: <a href="https://www.google.com">Search engine</a></em></p>
     <p>Have a suggestion?</p>
     <form>
