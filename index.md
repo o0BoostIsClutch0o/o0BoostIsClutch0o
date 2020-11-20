@@ -73,6 +73,32 @@
         #selfIntro {
             font-weight: bold;
             }
+            
+        .penguin {
+    --penguin-skin: gray;
+    position: relative;
+    margin: auto;
+    display: block;
+    margin-top: 5%;
+    width: 300px;
+    height: 300px;
+  }
+
+  .penguin-top {
+    top: 10%;
+    left: 25%;
+    width: 50%;
+    height: 45%;
+    border-radius: 70% 70% 60% 60%;
+  }
+    .left-eye {
+    top: 45%;
+    left: 25%;
+    background: black;
+    width: 15%;
+    height: 17%;
+    border-radius: 50%;
+  }
         </style>
         
     </head>
@@ -252,9 +278,9 @@
     <p class="catstuff">Silly cat says 'Hello!'</p>
     <a target="_blank" href="https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/turn-an-image-into-a-link"> <img class="kittyphoto" src="https://bit.ly/fcc-relaxing-cat" alt="cat relaxing upside down"></a>
     
-    <div class="creature">
-        <div class="creatureface">
-            <div class="creatureeye">
+    <div class="penguin">
+        <div class="penguin-top">
+            <div class="left-eye">
             </div>
         </div>
     </div>
