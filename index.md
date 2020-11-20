@@ -50,14 +50,22 @@
             margin: auto;
             display: block;
             margin-top: 5%;
-            width: 200px;
-            height: 200px;
+            width: 20px;
+            height: 20px;
         }
         .creatureface {
             width: 50%;
             height: 50%;
             border-radius: 50% 50% 50% 50%; 
-            color: gray;
+            color: rgb(255, 255, 95);
+        }
+        .creatureeye {
+            top: 5%;
+            left: 10%;
+            border-radius: 60% 70% 60% 70%; 
+            color: rgb(0, 120, 093);
+            background: black;
+            border-radius: 50%;
         }
         #selfIntro {
             font-weight: bold;
@@ -243,6 +251,8 @@
     
     <div class="creature">
         <div class="creatureface">
+            <div class="creatureeye">
+            </div>
         </div>
     </div>
     
