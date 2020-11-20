@@ -50,12 +50,13 @@
             margin: auto;
             display: block;
             margin-top: 5%;
-            width: 20px;
-            height: 20px;
+            width: 100px;
+            height: 100px;
         }
         .creatureface {
             width: 50%;
             height: 50%;
+            background-color: gray;
             border-radius: 50% 50% 50% 50%; 
             color: rgb(255, 255, 95);
         }
@@ -65,6 +66,8 @@
             border-radius: 60% 70% 60% 70%; 
             color: rgb(0, 120, 093);
             background: black;
+            width: 5px;
+            height: 5px;
             border-radius: 50%;
         }
         #selfIntro {
